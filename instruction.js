@@ -1,7 +1,7 @@
 windows
 打开当前目录文件夹  start .
 新建目录 mkdir(md) file 
-
+删除文件 rd(rmdir) /s（subdirectory） /q（quit）
 
 
 git 
