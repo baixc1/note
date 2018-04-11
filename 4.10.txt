@@ -13,8 +13,10 @@
 	组件新标签：view、button、text
 	MVVM模板语法 、 wx-指令
    WXSS样式
-	新尺寸单位rpx
+	新尺寸单位rpx，屏宽750rpx
 	app.wxss-全局样式，page.wxss-局部样式
+	样式导入 @import "相对路径";
+	手机宽带100vm,高度100vh
    js
 小程序能力：
    	首页：pages配置的第一个页面
@@ -58,7 +60,7 @@ api
 	文件结构
 	配置 app.js(pages,window,tabBar,networkTimeout,debug)
 	逻辑层App Service(App,Page)
-		注册程序（App）getApp获取实例
+		注册程序 - App(object)  object-onLaunch,onShow,onHide,globalData(自定义)。。。   getApp()获取实例
 		注册页面（Page，初始化json数据，生命周期函数）
 		路由（页面栈，路由方式）
 		模块化（文件作用域、模块化）
