@@ -3,6 +3,8 @@ windows
 2、新建目录 mkdir(md) file 
 3、删除文件 rd(rmdir) /s（subdirectory） /q（quit）
 4、文件夹显示隐藏文件 查看-选项-查看
+5、卸载/更改进程: dllhost.exe
+6、运行maskmgr
 
 
 
