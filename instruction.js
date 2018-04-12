@@ -9,5 +9,5 @@ windows
 git 
 克隆代码
 a、git clone git@github:server-name/repository.git（或复制）
-b、git push -u origin master  关联远程分支
-   
+b、git push -u origin master  首次提交（关联远程分支）
+   git push origin 提交
