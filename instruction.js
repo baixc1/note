@@ -1,13 +1,14 @@
 windows
-1¡¢´ò¿ªµ±Ç°Ä¿Â¼ÎÄ¼ş¼Ğ  start .
-2¡¢ĞÂ½¨Ä¿Â¼ mkdir(md) file 
-3¡¢É¾³ıÎÄ¼ş rd(rmdir) /s£¨subdirectory£© /q£¨quit£©
-4¡¢ÎÄ¼ş¼ĞÏÔÊ¾Òş²ØÎÄ¼ş ²é¿´-Ñ¡Ïî-²é¿´
+1ã€æ‰“å¼€å½“å‰ç›®å½•æ–‡ä»¶å¤¹  start .
+2ã€æ–°å»ºç›®å½• mkdir(md) file 
+3ã€åˆ é™¤æ–‡ä»¶ rd(rmdir) /sï¼ˆsubdirectoryï¼‰ /qï¼ˆquitï¼‰
+4ã€æ–‡ä»¶å¤¹æ˜¾ç¤ºéšè—æ–‡ä»¶ æŸ¥çœ‹-é€‰é¡¹-æŸ¥çœ‹
+5ã€åˆ é™¤æ–‡ä»¶è¿›ç¨‹  	ä»»åŠ¡ç®¡ç†å™¨-èµ„æºç›‘è§†å™¨-å…³è”çš„å¥æŸ„-æ–‡ä»¶å¤¹å
 
 
 
 git 
-¿ËÂ¡´úÂë
-a¡¢git clone git@github:server-name/repository.git£¨»ò¸´ÖÆ£©
-b¡¢git push -u origin master  Ê×´ÎÌá½»£¨¹ØÁªÔ¶³Ì·ÖÖ§£©
-   git push origin Ìá½»
+å…‹éš†ä»£ç 
+aã€git clone git@github:server-name/repository.gitï¼ˆæˆ–å¤åˆ¶ï¼‰
+bã€git push -u origin master  é¦–æ¬¡æäº¤ï¼ˆå…³è”è¿œç¨‹åˆ†æ”¯ï¼‰
+   git push origin æäº¤
