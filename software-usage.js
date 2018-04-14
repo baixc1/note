@@ -21,6 +21,9 @@ ftp软件（上传、下载）
 搭建本地服务器（类似xampp）
 内含Apache、PHP、MySQL
 
+***xampp***
+1、端口可用
+2、运行文件: xampp/htdocs
 
 ***Xshell***
 终端模拟软件, 可访问服务器（类似secureCRT、putty）
