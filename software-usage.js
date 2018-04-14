@@ -12,9 +12,9 @@ ftp软件（上传、下载）
 
 
 ***ShadowSocks***
-加密通讯软件
-github开源
-代理服务器
+1、代理服务器, github开源
+2、需下载.net Framework v4.6.2
+3、设置浏览器插件代理, 翻墙
 
 
 ***mamp***
@@ -28,4 +28,14 @@ github开源
 
 ***IIS***
 互联网信息服务
+
+***vps***
+vitual private server 虚拟专用服务器
+
+***vpn***
+vitual private netwerk 虚拟专用网络, 远程访问技术
+
+
+***Mercurial***
+轻量级分布式版本控制系统
 
