@@ -26,6 +26,8 @@ ftp软件（上传、下载）
 1、端口可用
 2、运行文件: xampp/htdocs
 3、运行文件: xampp-control.exe
+4、配置文件: xampp\apache\conf
+5、虚拟主机配置文件：/apache/conf/extra/httpd-vhosts.conf
 
 ***Xshell***
 终端模拟软件, 可访问服务器（类似secureCRT、putty）
@@ -44,3 +46,6 @@ vitual private netwerk 虚拟专用网络, 远程访问技术
 ***Mercurial***
 轻量级分布式版本控制系统
 
+***beyond compare***
+1、操作-比较内容
+2、会话-会话设置-比较-基于规则的比较  编辑-完全刷新   
