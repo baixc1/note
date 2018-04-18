@@ -48,4 +48,9 @@ vitual private netwerk 虚拟专用网络, 远程访问技术
 
 ***beyond compare***
 1、操作-比较内容
-2、会话-会话设置-比较-基于规则的比较  编辑-完全刷新   
+
+***nginx***
+engine x	高性能http和反向代理服务器
+
+
+
