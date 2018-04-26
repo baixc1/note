@@ -29,6 +29,8 @@ ftp软件（上传、下载）
 4、配置文件: xampp\apache\conf
 5、虚拟主机配置文件：/apache/conf/extra/httpd-vhosts.conf
 6、修改apache端口, phpmyadmin报错-HTTP 错误 404.0 url加apache端口
+7、设置域名解析	 C:\Windows\System32\drivers\etc\hosts
+
 
 ***Xshell***
 终端模拟软件, 可访问服务器（类似secureCRT、putty）
