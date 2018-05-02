@@ -6,7 +6,7 @@ windows
 5、删除文件进程  	任务管理器-资源监视器-关联的句柄-文件夹名
 6、软件安装位置 	程序和功能-（名称行右键）其他-（选择）位置
 7、netstat -a 	查询开启端口
-
+8、path=%path%;C:\Python 	//新增环境变量
 
 git 
 克隆代码
@@ -16,3 +16,8 @@ b、git push -u origin master  首次提交（关联远程分支）
    
 配置
 git config --global(or system or local) --list
+
+
+
+python
+python -V 			//版本
