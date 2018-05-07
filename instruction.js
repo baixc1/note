@@ -7,6 +7,16 @@ windows
 6、软件安装位置 	程序和功能-（名称行右键）其他-（选择）位置
 7、netstat -a 	查询开启端口
 8、path=%path%;C:\Python 	//新增环境变量
+9、打开网页 		//explorer url
+10、新建文件		
+		echo [fileContent] > *.*		//有内容
+		type nul > *.*		//空
+11、c盘文件权限修改
+		文件右键-属性-安全-编辑
+
+linux
+1、新建文件/目录	//touch
+
 
 git 
 克隆代码
@@ -17,7 +27,3 @@ b、git push -u origin master  首次提交（关联远程分支）
 配置
 git config --global(or system or local) --list
 
-
-
-python
-python -V 			//版本

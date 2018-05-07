@@ -58,4 +58,26 @@ vitual private netwerk 虚拟专用网络, 远程访问技术
 engine x	高性能http和反向代理服务器
 
 
+***adb***
+Android Debug Bridge tools
+包含在 Android SDK 中
+
+***Android SDK***
+software development kit
+开发包, 库文件
+
+
+***Android Studio***
+IDE, 集成SDK
+
+
+***JDK***
+Java (Standard Edition) Development Kit
+java开发工具包
+
+***JRE***
+Java Runtime Environment 
+运行环境
+
+
 
