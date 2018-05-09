@@ -80,4 +80,8 @@ Java Runtime Environment
 运行环境
 
 
-
+***pycharm***
+Appearance & Behavior		//主题与行为
+Editor						//编辑
+Project						//项目
+	Project Interpreter		//添加python解释器
