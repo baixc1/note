@@ -27,3 +27,6 @@ b、git push -u origin master  首次提交（关联远程分支）
 配置
 git config --global(or system or local) --list
 
+
+npm
+1、npm list mysql		//查询模块版本

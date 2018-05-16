@@ -9,11 +9,25 @@
 		Translation:		Source Code -> Parsing -> Parse Tree ->Translation -> Machine Code
 		
 		HTML Parser
-		parsing:			Network -> Tokenizer -> Tree Construction -> DOM
-		tokenization:		Data State -> Tag open state -> Tag name state... -> End tag token -> 
-							Tag name state ... -> Data State
-		tree construction: 	initial mode -> before HTML -> before head -> in head -> after head ->
+			parsing:			Network -> Tokenizer -> Tree Construction -> DOM
+			tokenization:		Data State -> Tag open state -> Tag name state... -> End tag token -> 
+								Tag name state ... -> Data State
+			tree construction: 	initial mode -> before HTML -> before head -> in head -> after head ->
 							in body -> after body -> after after body
+							
+		CSS parsing			//context free grammar
+			Webkit CSS parser
+			StyleSheet object - > CSS rules -> selector,declaration
+			
+			
+		Parsing scripts
+			order	
+				Scripts		synchronous		//no defer and no mark thread
+				Speculative parsing			main/thread parses		//scripts, style sheets and images
+				Style sheets				//The script does not affect the style
+				
+				
+				
 	2、DOM tree -> Render tree -> Layout -> paint
 	gradual process
 	
