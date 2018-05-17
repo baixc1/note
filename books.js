@@ -3,7 +3,7 @@
 *User Interface
 *Browser engine
 *Rendering engine
-	1、Parser 
+	1、Parser -> DOM tree
 		Parsing - general
 		Parser:				Document -> Lexical Analysis -> Syntax Analysis -> Parse Tree
 		Translation:		Source Code -> Parsing -> Parse Tree ->Translation -> Machine Code
@@ -28,10 +28,13 @@
 				
 				
 				
-	2、DOM tree -> Render tree -> Layout -> paint
+	2、 -> Render tree 
+		RenderObject				//create a instance with attributes
+	
+	3、 -> Layout -> paint
 	gradual process
 	
 	
-*Networking、
+*Networking
 *Javascript Interpreter
 *UI Backend、Data Storage
