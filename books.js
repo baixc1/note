@@ -30,6 +30,9 @@
 				
 	2、 -> Render tree 
 		RenderObject				//create a instance with attributes
+		render tree relation to the DOM tree
+		attachment				//"attach" method
+		Style Computation
 	
 	3、 -> Layout -> paint
 	gradual process
