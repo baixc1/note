@@ -85,3 +85,11 @@ Appearance & Behavior		//主题与行为
 Editor						//编辑
 Project						//项目
 	Project Interpreter		//添加python解释器
+	
+	
+	
+***飞冰***
+Iceworks		//图形化界面开发平台
+组件			//最基础的物料
+区块		// 基于组件组合而成, 快速组合(常用的场景)搭建应用
+模板		//脚手架初始模板
