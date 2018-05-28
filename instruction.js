@@ -14,22 +14,29 @@ windows
 11、c盘文件权限修改
 		文件右键-属性-安全-编辑
 12、查询系统变量	set varName
+13、查看版本		//webpack --version
 
 linux
 1、新建文件/目录	//touch
 
 
 git 
-克隆代码
-a、git clone git@github:server-name/repository.git（或复制）
-b、git push -u origin master  首次提交（关联远程分支）
-   git push origin 提交
-   
-配置
-git config --global(or system or local) --list
+	克隆代码
+	a、git clone git@github:server-name/repository.git（或复制）
+	b、git push -u origin master  首次提交（关联远程分支）
+	   git push origin 提交
+	   
+	配置
+	git config --global(or system or local) --list
 
 
 npm
 1. npm list mysql		//查询模块版本
 2. npm config list     	//查看配置(淘宝镜像)
 3. npm config delete registry	//删除registry
+4. npm install -g moduleName		//全局安装	uninstall
+
+
+webpack
+1. webpack --mode development/production		//运行
+
