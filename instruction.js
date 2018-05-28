@@ -13,6 +13,7 @@ windows
 		type nul > *.*		//空
 11、c盘文件权限修改
 		文件右键-属性-安全-编辑
+12、查询系统变量	set varName
 
 linux
 1、新建文件/目录	//touch
@@ -29,4 +30,6 @@ git config --global(or system or local) --list
 
 
 npm
-1、npm list mysql		//查询模块版本
+1. npm list mysql		//查询模块版本
+2. npm config list     	//查看配置(淘宝镜像)
+3. npm config delete registry	//删除registry

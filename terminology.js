@@ -130,3 +130,9 @@ Domain Name System			//域名系统
 		
 ***GUI***
 Graphical User Interface
+
+***IDE***
+Integrated Development Environment 	//集成开发环境
+
+***VSCode***
+Visual Studio Code		//ide
