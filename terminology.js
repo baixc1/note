@@ -136,3 +136,12 @@ Integrated Development Environment 	//集成开发环境
 
 ***VSCode***
 Visual Studio Code		//ide
+
+***Icons8 Lunacy***
+浏览sketch文件
+	- alt + 选中			//查看元素距离
+	- alt + 鼠标滚轮		//缩放
+	- 右上角
+		-Properties 		//样式
+		-Code				//样式css
+		-export				//导出
