@@ -145,3 +145,21 @@ Visual Studio Code		//ide
 		-Properties 		//样式
 		-Code				//样式css
 		-export				//导出
+		
+***MDN***
+Mozilla Developer Network
+JavaScript basics - js基础教程		https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
