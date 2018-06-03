@@ -150,10 +150,24 @@ Visual Studio Code		//ide
 Mozilla Developer Network
 JavaScript basics - js基础教程		https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
 
+***预处理器***
+- 在真正的编译之前由编译器调用的独立程序
+- 删除注释、包含其他文件以及执行宏替代
 
+***宏***
+- 批量处理
+- 规则替换
 
+***热重载***
+- hot-reloading
+- 修改代码后自动刷新页面
 
-
+***NPM***
+- Node Package Manager
+- https://docs.npmjs.com/getting-started/what-is-npm
+- https://babeljs.io/learn-es2015/
+- https://github.com/vuejs-templates/webpack
+- https://webpack.js.org/configuration/
 
 
 
