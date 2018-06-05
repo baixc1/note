@@ -21,4 +21,5 @@
 			-Callback without Arguments
 				-$.get('',callback)
 			-Callback with Arguments		//the anonymous function wrap callback
+		-Additional jQuery Support
 				
