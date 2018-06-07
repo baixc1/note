@@ -23,4 +23,9 @@
 			-Callback with Arguments		//the anonymous function wrap callback
 		-Additional jQuery Support
 	- Using jQuery Core
-		-$ vs $()
+		-$ vs $()		
+			-$() 	//$.fn  this
+			-$		//utility-type	vary
+		-$( document ).ready()
+			- window/load		//images or iframes
+			- Shorthand 		//$()
