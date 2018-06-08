@@ -27,5 +27,10 @@
 			-$() 	//$.fn  this
 			-$		//utility-type	vary
 		-$( document ).ready()
-			- window/load		//images or iframes
-			- Shorthand 		//$()
+			-window/load		//images or iframes
+			-Shorthand 		//$()
+		-Avoiding Conflicts with Other Libraries
+			-Putting jQuery Into No-Conflict Mode		//$j = jQuery.noConflict()
+			-$ as an argument 
+			-Including jQuery Before Other Libraries
+			-Summary of Ways to Reference the jQuery Function
