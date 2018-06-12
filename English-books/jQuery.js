@@ -34,3 +34,21 @@
 			-$ as an argument 
 			-Including jQuery Before Other Libraries
 			-Summary of Ways to Reference the jQuery Function
+				-Create a New Alias
+				-Use an Immediately Invoked Function Expression
+				-Use the Argument That's Passed to the jQuery( document ).ready() Function
+		-Attributes
+			-The .attr() method
+				-setter
+				-getter
+		-Selecting Elements
+			-Choosing Selectors
+			-Saving Selections
+			-Refining & Filtering Selections
+			-Selecting Form Elements
+			
+			
+			
+			
+			
+			
