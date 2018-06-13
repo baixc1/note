@@ -46,7 +46,28 @@
 			-Saving Selections
 			-Refining & Filtering Selections
 			-Selecting Form Elements
+		-Working with Selections
+			-Getters & Setters
+				-all/first	except text()
+				-return $ object/value
+				-Chaining
+		-Manipulating Elements
+			-Getting and Setting Information About Elements
+			-Moving, Copying, and Removing Elements		//initiative - passive
+			-Cloning Elements					//.clone()
+			-Removing Elements				//.remove()  .clone()    .empty()
+			-Creating New Elements
+				-$()		
+				-string/attribute object
+				-reserved words 
+				-huge performance cost
+			-Manipulating Attributes
+				-single 
+				-multiple
+				-function 
+		-The jQuery Object
 			
+				
 			
 			
 			
