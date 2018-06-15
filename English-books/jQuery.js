@@ -66,7 +66,19 @@
 				-multiple
 				-function 
 		-The jQuery Object
-			
+			-DOM and DOM Elements
+			-The jQuery Object
+				-Compatibility 
+				-Convenience 
+			-Getting Elements Into the jQuery Object
+				-length
+				-eq
+				-get
+				-bracket
+			-Not All jQuery Objects are Created
+				-not the same jQuery object   / the same DOM element
+				-convention		/$obj
+			-jQuery Objects Are Not "Live"
 				
 			
 			
