@@ -79,9 +79,50 @@
 				-not the same jQuery object   / the same DOM element
 				-convention		/$obj
 			-jQuery Objects Are Not "Live"
-				
-			
-			
-			
-			
-			
+				-only updated by create a new one
+			-Wrapping Up
+		-Traversing
+			-three basic parts
+			-Parents		
+				-.parent() 
+				-.parents() 
+				-.parentsUntil()		//up to, not including
+				-.closest()		//include itself 
+			-Children		
+				-.children() 		//direct child
+				-.find()		//traverse recursively 
+			-Siblings
+				-.prev() .next() .siblings()
+				-.nextAll() .nextUntil() .prevAll() .prevUntil()
+		-CSS, Styling, & Dimensions
+			-.css()		//individual/multiple 
+			-Using CSS Classes for Styling
+				-addClass() removeClass() toggleClass() hasClass()
+			-Dimensions
+				-width/height/position() 
+		-Data Methods
+			-.data()		//manages the memory(memory leaks)
+			-store element	//relationship  pointer 
+		-Utility Methods
+			-$ namespace
+				-trim 
+				-each(key-value) 
+				-inArray(value,array)
+				-extend		//first empty 
+				-proxy		//return function, (function,object), (object,'functionName')
+		-Testing Type
+			-$.type()		//return string for internal class
+		-Iterating over jQuery and non-jQuery Objects
+			-$.each()		// for plain construction
+			-.each()		//callback(index, element), this - current matched element
+				-The Second Argument	//this === it , 'this' change in other scope
+				-Sometimes .each() Isn't Necessary	
+					-iterate over the collection	//val() only use in .eq().val('')
+					-require .each()
+						-attr css data height ...		//getter only first , except .text()
+					-accept anonymous callback 
+						-attribute(html), property(js), CSS setters, and DOM insertion 
+			-.map()
+						
+						
+						
