@@ -123,6 +123,13 @@
 					-accept anonymous callback 
 						-attribute(html), property(js), CSS setters, and DOM insertion 
 			-.map()
-						
+				-$.map()		//return array
+				-.map()		//.get()
+		-Using jQuery¡¯s .index() Function
+			-.index() with No Arguments		// within its parent
+			-.index() with a String Argument
+				-query all .index() DOM 
+				-check jQ object's index
+			-.index() with a jQuery Object Argument
 						
 						
