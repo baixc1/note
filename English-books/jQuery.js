@@ -131,5 +131,9 @@
 				-query all .index() DOM 
 				-check jQ object's index
 			-.index() with a jQuery Object Argument
+				-index: index()'s jQ's index in left jQ
+			-.index() with a DOM Element Argument
+				-similar to up(dom in ())
+		-Frequently Asked Questions
 						
 						
