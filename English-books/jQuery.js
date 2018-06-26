@@ -135,5 +135,16 @@
 			-.index() with a DOM Element Argument
 				-similar to up(dom in ())
 		-Frequently Asked Questions
-						
+			-How do I select an item using class or ID?
+			-How do I select elements when I already have a DOM element?
+			-How do I test whether an element has a particular class?
+			-How do I test whether an element exists?
+			-How do I determine the state of a toggled element?
+			-How do I select an element by an ID that has characters used in CSS notation?
+			-How do I disable/enable a form element?		//prop
+			-How do I check/uncheck a checkbox input or radio button?	//prop
+			-How do I get the text value of a selected option?	//select-option
+			-How do I replace text from the 3rd element of a list of 10 items?	//eq,text
+			-How do I pull a native DOM element from a jQuery object?
+	- Events
 						
