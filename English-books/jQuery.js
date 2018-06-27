@@ -147,4 +147,12 @@
 			-How do I replace text from the 3rd element of a list of 10 items?	//eq,text
 			-How do I pull a native DOM element from a jQuery object?
 	- Events
-						
+		-jQuery Event Basics
+			-Setting Up Event Responses on DOM Elements
+			-Extending Events to New Page Elements		//on delegate 
+			-Inside the Event Handler Function
+				-the event object 	//pageX, pageY, type, which, data, target, preventDefault...
+			-Setting Up Multiple Event Responses	//space-separated, key/value
+			-Namespacing Events
+			-Tearing Down Event Listeners  //off, named function 
+			-Setting Up Events to Run Only Once  //one, multiple events
