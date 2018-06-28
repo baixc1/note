@@ -156,3 +156,16 @@
 			-Namespacing Events
 			-Tearing Down Event Listeners  //off, named function 
 			-Setting Up Events to Run Only Once  //one, multiple events
+		-Event Helpers
+		-Introducing Events
+			-Introduction
+			-What's a DOM event?		//user events
+			-Ways to listen for events
+				-addEventListener 
+				-attachEvent
+				-listened method	//click - bind - on - on({},'') - on('','','')
+			
+			
+			
+			
+			
