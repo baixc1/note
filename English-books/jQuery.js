@@ -164,7 +164,8 @@
 				-addEventListener 
 				-attachEvent
 				-listened method	//click - bind - on - on({},'') - on('','','')
-			
+				-Event delegation	//bubbling  performance 
+				-The event object	//preventDefault stopPropagation(return false) AJAX   
 			
 			
 			
