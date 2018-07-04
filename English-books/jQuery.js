@@ -166,7 +166,17 @@
 				-listened method	//click - bind - on - on({},'') - on('','','')
 				-Event delegation	//bubbling  performance 
 				-The event object	//preventDefault stopPropagation(return false) AJAX   
-			
+			-Handling Events
+				-Simple event binding
+				-Many events, but only one event handler
+				-Many events and handlers
+				-The event object
+				-Passing data to the event handler
+				-Binding events to elements that don't exist yet
+				-Connecting Events to Run Only Once		//one
+				-Disconnecting Events		//off
+				-Namespacing Events
+			-Inside the Event Handling Function
 			
 			
 			
