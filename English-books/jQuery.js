@@ -177,6 +177,34 @@
 				-Disconnecting Events		//off
 				-Namespacing Events
 			-Inside the Event Handling Function
-			
+		-Understanding Event Delegation
+			-Event Propagation
+			-Using the Triggering Element
+		-Triggering Event Handlers
+			-What handlers can be .triggered?		//no native events	
+			-How can I mimic a native browser event, if not .trigger()?
+				-document.createEventObject 	//< IE9 
+				-document.createEvent
+				-simulate			//jquery.simulate.js
+				-.trigger() vs .triggerHandler()
+					-triggerHandler
+						-triggers first element  	
+						-returned by last handler
+						-not cause the default behavior 
+						-not bubble
+			-Don't use .trigger() simply to execute specific functions
+		-History of jQuery Events
+			...
+		-Introducing Custom Events
+			-Custom Events
+				-Behaviors of the target element can easily be triggered by different elements using the same code.
+				-Behaviors can be triggered across multiple, similar, target elements at once.
+				-Behaviors are more clearly associated with the target element in code, making code easier to read and maintain.
+				-just attention behavior
+			-Naming Custom Events
+			-Recap: .on() and .trigger()
+			-Conclusion
+				- emphasis on the target of a behavior
+		-jQuery Event Extensions
 			
 			
