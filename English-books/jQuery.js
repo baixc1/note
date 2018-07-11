@@ -206,5 +206,20 @@
 			-Conclusion
 				- emphasis on the target of a behavior
 		-jQuery Event Extensions
+			...
+	- Effects
+		-Introduction to Effects
+			-Showing and Hiding Content	//show,hide - display - animate
+			-Fade and Slide Animations	//slideUp,slideDown - height, fadeIn,fadeOut - opacity
+			-Changing Display Based on Current Visibility State	//toggle,slideToggle,fadeToggle
+			-Doing Something After an Animation Completes		//callback
+			-Managing Animation Effects	//stop,delay
+			-jQuery.fx	//jQuery.fx.speeds jQuery.fx.interval jQuery.fx.off
+		-Custom Effects with .animate()		//no Color-related properties
+			-animate(prop,duration,callback)
+			-Easing		//swing,linear
+		-Queue & Dequeue Explained
+			-Queues As Callbacks	//.queue(fun(fun))
+			-Custom Queues
 			
 			
