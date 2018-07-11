@@ -206,7 +206,9 @@
 			-Conclusion
 				- emphasis on the target of a behavior
 		-jQuery Event Extensions
-			...
+			-Events overview and general advice
+			-jQuery.event.props: Array	?
+			-jQuery.event.fixHooks: Object
 	- Effects
 		-Introduction to Effects
 			-Showing and Hiding Content	//show,hide - display - animate
@@ -221,5 +223,6 @@
 		-Queue & Dequeue Explained
 			-Queues As Callbacks	//.queue(fun(fun))
 			-Custom Queues
+			
 			
 			
