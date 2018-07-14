@@ -223,6 +223,17 @@
 		-Queue & Dequeue Explained
 			-Queues As Callbacks	//.queue(fun(fun))
 			-Custom Queues
-			
-			
+			-Clearing The Queue
+			-Replacing The Queue
+	- Ajax		//Asynchronous JavaScript and XML
+		-XMLHttpRequest
+		-$.ajax/get/post...
+		-JSONP / Cross-Origin Resource Sharing
+		-Key Concepts
+			-GET vs. POST		//destructive - data operate
+			-Data Types	  	//text,html,script,json,jsonp,xml
+			-A is for Asynchronous
+			-Same-Origin Policy and JSONP
+			-Ajax and Firebug
+		-jQuery's Ajax-Related Methods
 			
