@@ -236,4 +236,28 @@
 			-Same-Origin Policy and JSONP
 			-Ajax and Firebug
 		-jQuery's Ajax-Related Methods
+			-$.ajax()	//core method
+			-$.ajax() Options
+				-async、cache、done、fail、always、content、data、dataType、jsonp、type、url...
+			-Convenience Methods
+				-get、post、getScript、getJson
+				-option(url,data,success callback,data type)
+			-$.fn.load		//populate
+		-Ajax and Forms
+			-Serialization
+				-serialize
+				-serializeArray
+			-Client-side validation
+			-Prefiltering
+				-ajaxPrefilter
+		-Working with JSONP
+			-consensual cross-site scripting hack
+		-Ajax Events
+			-bind Ajax events to elements
+	- Plugins
+		-Finding & Evaluating Plugins
+			-Signs of a poorly written jQuery plugin 
+					
+				
+				
 			
