@@ -257,7 +257,20 @@
 	- Plugins
 		-Finding & Evaluating Plugins
 			-Signs of a poorly written jQuery plugin 
-					
+		-How to Create a Basic Plugin
+			-jQuery Object Methods		//$.fn
+			-Basic Plugin Authoring
+			-Chaining
+			-Protecting the $ Alias and Adding Scope
+			-Minimizing Plugin Footprint
+			-Using the each() Method
+			-Accepting Options
+			-Putting It Together
+		-Advanced Plugin Concepts
+			-Provide Public Access to Default Plugin Settings	//expose the default plugin settings
+			-Provide Public Access to Secondary Functions as Applicable
+			-Cycle Plugin
+			-Keep Private Functions Private
 				
 				
 			
