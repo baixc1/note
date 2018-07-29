@@ -15,6 +15,7 @@ windows
 		文件右键-属性-安全-编辑
 12、查询系统变量	set varName
 13、查看版本		//webpack --version
+14、在此处打开PowerShell的选项	- 摁住shift+鼠标右键
 
 linux
 1、新建文件/目录	//touch
