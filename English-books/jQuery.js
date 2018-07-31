@@ -271,6 +271,18 @@
 			-Provide Public Access to Secondary Functions as Applicable
 			-Cycle Plugin
 			-Keep Private Functions Private
+				-Provide Public Access to Default Plugin Settings
+				-Provide Public Access to Secondary Functions as Applicable
+				-Keep Private Functions Private
+				-Don't Create Plugin-specific Syntax
+				-Provide Callback Capabilities
+				-Remember, It's a Compromise
+		-Writing Stateful Plugins with the jQuery UI Widget Factory
+			-Writing Stateful Plugins with the jQuery UI Widget Factory
+			-Adding Methods to a Widget
+			-Working with Widget Options
+			-Adding Callbacks
+			-The Widget Factory: Under the Hood
 				
 				
 			
