@@ -283,6 +283,22 @@
 			-Working with Widget Options
 			-Adding Callbacks
 			-The Widget Factory: Under the Hood
+			-Cleaning Up
+	- Performance
+		-Append Outside of Loops		//fragment / html string / jsPerf
+		-Cache Length During Loops
+		-Detach Elements to Work with Them	//detach
+		-Don¡¯t Act on Absent Elements
+		-Optimize Selectors
+			-jQuery Extensions
+			-Avoid Excessive Specificity
+			-ID-Based Selectors
+			-Tips for Older Browsers
+				-Specificity
+				-Avoid the Universal Selector
+			-Use Stylesheets for Changing CSS on Many Elements
+	- Code Organization
+		
 				
 				
 			
