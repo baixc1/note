@@ -298,7 +298,11 @@
 				-Avoid the Universal Selector
 			-Use Stylesheets for Changing CSS on Many Elements
 	- Code Organization
-		
+		-Code Organization Concepts
+			-Key Concepts		//encapsulation  inheritance / loosely coupled
+			-Encapsulation
+				-The Object Literal
+				-The Module Pattern
 				
 				
 			
