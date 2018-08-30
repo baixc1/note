@@ -302,7 +302,19 @@
 			-Key Concepts		//encapsulation  inheritance / loosely coupled
 			-Encapsulation
 				-The Object Literal
-				-The Module Pattern
-				
+				-The Module Pattern		//block scope 
+		-Beware Anonymous Functions
+		-Keep Things DRY
+		-Feature & Browser Detection
+			-Browser Detection
+				-Other browsers other than your target may have the same issue
+				-User Agents are unreliable
+				-Specific Feature Detection
+					-Straight JavaScript
+					-A Helper Library
+				-Performance Considerations
+		-Deferreds		//return deferred object
+			-Promises		//when
+			-jQuery Deferreds		//$.when
 				
 			
