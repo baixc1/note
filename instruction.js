@@ -29,7 +29,9 @@ git
 	   
 	配置
 	git config --global(or system or local) --list
-
+	
+	暂存区改动提交本地版本库
+	git commit -m “message”
 
 npm
 1. npm list mysql		//查询模块版本

@@ -178,3 +178,6 @@ JavaScript basics - js基础教程		https://developer.mozilla.org/en-US/docs/Lea
 ***typora
 -markdown 编辑器
 
+***cygwin
+-window上运行unix命令
+
