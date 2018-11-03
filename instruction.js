@@ -38,6 +38,7 @@ npm
 2. npm config list     	//查看配置(淘宝镜像)
 3. npm config delete registry	//删除registry
 4. npm install -g moduleName		//全局安装	uninstall
+5. npm i <moduleName>			//本地安装
 
 
 webpack
