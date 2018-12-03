@@ -1,0 +1,71 @@
+12.3
+1. 打开当前目录 （open .)  打开文件(open 1.txt) 新建文件(touch 1.txt) 新建文件夹(mkdir essays) 
+2. 缩放mac txt 文本字体 (command +/-)
+3. JS模块化编程
+require
+	CommonJS语法
+	模块对象
+	运行时加载
+import
+  	ES6 模块（不是对象）
+	export输出代码
+		export var xx = 'xx';
+		export {varName};
+		export function fn{};
+		export class{}
+		export {xx as xx}
+		错误写法：
+			1. export 1;
+			2. 无法解构  var m = 1;export m;
+		动态绑定（实时值）
+	import语法
+		import {} from '';
+		大括号语法
+		变量名称相同	
+		as关键字
+		绝对/相对路径
+		.js省略
+		提升效果
+		静态执行
+  	静态化
+	严格模式 (use strict)
+	module整体加载
+		*(import * as xx from '';)
+	export default
+		1. import命令可以为该匿名函数指定任意名字
+		2. import语句不用使用大括号(无需{}解构赋值)		
+	动态加载（import(specifier)）
+		1. 按需加载
+		2. 条件加载（if...else）
+4. npm 模块
+	qs(querystring)
+	axios(Promise based HTTP client)
+5. import文件夹
+	node.js模块系统（和 ES6 无关）
+	require查找顺序
+		core Module -> 相对路径/当前文件夹往上看node_modules -> package.json的main标明文件 
+			-> index.js/index.node -> NODE_PATH
+	webpack 兼容 node 模块系统
+6. ./和../和/的开头路径区别
+	./表示当前目录
+	../表示父级目录
+	/表示根目录
+7. Promise对象
+	1. 含义
+		异步编程解决方案
+		对象的状态不受外界影响
+		一旦状态改变，就不会再变
+	2. 基本用法
+		构造函数 new Promise((f1,f2)=>{});改变状态，传递结果
+		先调用函数，再监听
+		实例方法 then（状态变更指定回调）
+		Promise 新建后就会立即执行
+
+
+
+
+
+
+
+
+
