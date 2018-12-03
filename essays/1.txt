@@ -60,11 +60,30 @@ import
 		先调用函数，再监听
 		实例方法 then（状态变更指定回调）
 		Promise 新建后就会立即执行
-
-
-
-
-
+	3. Promise.prototype.then
+		链式调用（串行）
+	4. Promise.prototype.catch
+		Promise 对象的错误具有“冒泡”性质
+		Promise 会吃掉错误
+	5. Promise.all([])
+	6. Promise.race([])
+	7. Promise.resolve
+		将现有对象转为 Promise 对象
+		参数类型：
+			Promise 实例 (不做任何修改)
+			thenable对象
+			不是对象
+			不带有任何参数
+	8. Promise.reject
+		Promise.reject()方法的参数，会原封不动地作为reject的理由
+8. Event Loop 事件循环
+	单线程 非阻塞
+	1. 执行栈与事件队列
+		执行环境（context） 上下文
+		事件队列（Task Queue）
+		异步挂起
+	2. macro task与micro task
+		同一次事件循环中，微任务永远在宏任务之前执行
 
 
 
